@@ -3,17 +3,26 @@ Power BI Finance Analysis project focused on financial transactions, customer se
 
 ## Business Requirements
 A financial organization wants to build an interactive Finance Analytics Dashboard in Power BI to monitor and analyze overall financial transactions, customer behavior, fees, taxes, and transaction performance across different business segments and regions.
-The management team faces challenges in tracking:
+**The management team faces challenges in tracking:**
+
 •	Overall transaction growth and financial performance 
+
 •	Monthly trends in transaction amounts 
+
 •	Successful vs failed transactions 
+
 •	Customer segment contribution 
+
 •	State-wise financial performance 
+
 •	Transaction type profitability 
+
 •	Gender-based customer analysis 
+
 •	Year-over-Year (YoY) performance changes 
 
-The objective of this dashboard is to provide a centralized analytical solution that helps stakeholders:
+**The objective of this dashboard is to provide a centralized analytical solution that helps stakeholders:**
+
 •	Monitor KPIs in real time 
 
 •	Identify high-performing customer segments and states 
